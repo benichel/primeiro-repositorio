@@ -1,2 +1,2 @@
-# primeiro-repositorio-aula-gi
+# primeiro-repositorio-aula
 
